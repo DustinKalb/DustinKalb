@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Dustin Kalb</h1>
+<br>
+Hello! Thanks for taking a look at my GitHub profile. I am currently a software engineering student learning with the Institute of Data!
